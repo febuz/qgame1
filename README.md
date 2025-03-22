@@ -28,6 +28,8 @@ Quantum Chess - https://github.com/caphindsight/TrulyQuantumChess
 
 A chess variant with quantum mechanics, including single-qubit operations.
 
+Indipendent notebooks and py files with these games will follow later: https://nbviewer.org/github/quantumjim/jupyter-widget-game-engine/blob/master/jupyter_widget_game.ipynb
+
 Other:
 Quantum Mechanics Visualization - https://github.com/stared/quantum-mechanics-visualization
 Educational visualizations of quantum concepts including Bloch sphere for single qubits.
