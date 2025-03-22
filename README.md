@@ -2,6 +2,8 @@
 Quantum basic games with 1 qubit
 GitHub repositories with quantum games focused on 1 qubit! Here are some notable repositories:
 
+A very nice resource and startingpoint: https://itch.io/jam/indiq-quantum-game-jam
+
 Quantum Flytrap - https://github.com/Quantum-Flytrap/quantum-tensors
 
 A visual, interactive quantum mechanics simulator that includes single-qubit operations and visualizations.
