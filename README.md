@@ -23,7 +23,10 @@ Quantum Tetris - https://github.com/QCHackers/QuantumTetris
 A Tetris variant where game mechanics are influenced by quantum operations.
 
 Quantum Chess - https://github.com/caphindsight/TrulyQuantumChess
+
 A chess variant with quantum mechanics, including single-qubit operations.
+
+Other:
 Quantum Mechanics Visualization - https://github.com/stared/quantum-mechanics-visualization
 Educational visualizations of quantum concepts including Bloch sphere for single qubits.
 Quirk - https://github.com/Strilanc/Quirk
