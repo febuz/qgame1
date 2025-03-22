@@ -6,7 +6,7 @@ Quantum Flytrap - https://github.com/Quantum-Flytrap/quantum-tensors
 
 A visual, interactive quantum mechanics simulator that includes single-qubit operations and visualizations.
 
-QiskitBlocks - https://github.com/JavaFXpert/QiskitBlocks
+QiskitBlocks - https://github.com/MIROptics/QiskitBlocks
 
 A Minecraft mod that teaches quantum computing concepts, including single-qubit operations.
 
